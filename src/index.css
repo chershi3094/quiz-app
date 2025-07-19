@@ -1,0 +1,11 @@
+/* index.css or App.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa; /* Light background */
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+}
