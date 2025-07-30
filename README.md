@@ -10,9 +10,5 @@ A fun and interactive quiz application built with React.
 - Shows correct/incorrect answers  
 
 ## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/chershi3094/quiz-app.git
-cd quiz-app
+## Deploy link
+https://chershi3094.github.io/quiz-app/
